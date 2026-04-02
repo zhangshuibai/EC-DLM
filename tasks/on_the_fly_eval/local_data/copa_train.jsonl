@@ -1,0 +1,400 @@
+{"question": "My body cast a shadow over the grass. What was the cause of this?", "choices": ["The sun was rising.", "The grass was cut."], "answer": 0, "subject": "causal_reasoning"}
+{"question": "The woman tolerated her friend's difficult behavior. What was the cause of this?", "choices": ["The woman knew her friend was going through a hard time.", "The woman felt that her friend took advantage of her kindness."], "answer": 0, "subject": "causal_reasoning"}
+{"question": "The women met for coffee. What was the cause of this?", "choices": ["The cafe reopened in a new location.", "They wanted to catch up with each other."], "answer": 1, "subject": "causal_reasoning"}
+{"question": "The runner wore shorts. What was the cause of this?", "choices": ["The forecast predicted high temperatures.", "She planned to run along the beach."], "answer": 0, "subject": "causal_reasoning"}
+{"question": "The guests of the party hid behind the couch. What was the cause of this?", "choices": ["It was a surprise party.", "It was a birthday party."], "answer": 0, "subject": "causal_reasoning"}
+{"question": "The politician lost the election. What was the cause of this?", "choices": ["He ran negative campaign ads.", "No one voted for him."], "answer": 1, "subject": "causal_reasoning"}
+{"question": "The stain came out of the shirt. What was the cause of this?", "choices": ["I patched the shirt.", "I bleached the shirt."], "answer": 1, "subject": "causal_reasoning"}
+{"question": "The man got a discount on his groceries. What was the cause of this?", "choices": ["He greeted the cashier.", "He used a coupon."], "answer": 1, "subject": "causal_reasoning"}
+{"question": "The physician misdiagnosed the patient. What happened as a result?", "choices": ["The patient filed a malpractice lawsuit against the physician.", "The patient disclosed confidential information to the physician."], "answer": 0, "subject": "causal_reasoning"}
+{"question": "The customer filed a complaint with the store manager. What was the cause of this?", "choices": ["The sales associate undercharged the customer.", "The sales associate acted rude to the customer."], "answer": 1, "subject": "causal_reasoning"}
+{"question": "The woman repaired her faucet. What was the cause of this?", "choices": ["The faucet was leaky.", "The faucet was turned off."], "answer": 0, "subject": "causal_reasoning"}
+{"question": "The elderly woman suffered a stroke. What happened as a result?", "choices": ["The woman's daughter came over to clean her house.", "The woman's daughter moved in to take care of her."], "answer": 1, "subject": "causal_reasoning"}
+{"question": "The pond froze over for the winter. What happened as a result?", "choices": ["People skated on the pond.", "People brought boats to the pond."], "answer": 0, "subject": "causal_reasoning"}
+{"question": "The offender violated parole. What happened as a result?", "choices": ["She was sent back to jail.", "She stole money from a church."], "answer": 0, "subject": "causal_reasoning"}
+{"question": "I poured water on my sleeping friend. What happened as a result?", "choices": ["My friend awoke.", "My friend snored."], "answer": 0, "subject": "causal_reasoning"}
+{"question": "The girl gasped. What was the cause of this?", "choices": ["Her friend stuck an ice cube down her back.", "Her friend gave her a pat on the back."], "answer": 0, "subject": "causal_reasoning"}
+{"question": "The shirt shrunk. What was the cause of this?", "choices": ["I poured bleach on it.", "I put it in the dryer."], "answer": 1, "subject": "causal_reasoning"}
+{"question": "It got dark outside. What happened as a result?", "choices": ["Snowflakes began to fall from the sky.", "The moon became visible in the sky."], "answer": 1, "subject": "causal_reasoning"}
+{"question": "I hung up the phone. What was the cause of this?", "choices": ["The caller said goodbye to me.", "The caller identified himself to me."], "answer": 0, "subject": "causal_reasoning"}
+{"question": "The woman's ring slipped off in the shower. What happened as a result?", "choices": ["The woman polished the ring.", "The ring went down the drain."], "answer": 1, "subject": "causal_reasoning"}
+{"question": "The girl received a trophy. What was the cause of this?", "choices": ["She won a spelling bee.", "She made a new friend."], "answer": 0, "subject": "causal_reasoning"}
+{"question": "The woman's date wanted to look like a gentleman. What happened as a result?", "choices": ["He opened the door for her.", "He asked her if she liked sushi."], "answer": 0, "subject": "causal_reasoning"}
+{"question": "The farmland needed irrigation. What happened as a result?", "choices": ["A canal was constructed.", "A flood occurred."], "answer": 0, "subject": "causal_reasoning"}
+{"question": "The host cancelled the party. What was the cause of this?", "choices": ["She was certain she had the flu.", "She worried she would catch the flu."], "answer": 0, "subject": "causal_reasoning"}
+{"question": "The woman gave the man her phone number. What was the cause of this?", "choices": ["She was attracted to him.", "She was repulsed by him."], "answer": 0, "subject": "causal_reasoning"}
+{"question": "The skydiver glided safely to the ground. What was the cause of this?", "choices": ["She opened her parachute.", "She jumped out of the plane."], "answer": 0, "subject": "causal_reasoning"}
+{"question": "The toddler became cranky. What happened as a result?", "choices": ["Her mother put her down for a nap.", "Her mother fixed her hair into pigtails."], "answer": 0, "subject": "causal_reasoning"}
+{"question": "The child became immune to the disease. What was the cause of this?", "choices": ["He avoided exposure to the disease.", "He received the vaccine for the disease."], "answer": 1, "subject": "causal_reasoning"}
+{"question": "The grape juice fermented. What happened as a result?", "choices": ["The juice turned to wine.", "The juice evaporated."], "answer": 0, "subject": "causal_reasoning"}
+{"question": "The friends' debate dragged on interminably. What was the cause of this?", "choices": ["The friends saw eye to eye.", "The friends were splitting hairs."], "answer": 1, "subject": "causal_reasoning"}
+{"question": "The woman hummed to herself. What was the cause of this?", "choices": ["She was nervous.", "She was in a good mood."], "answer": 1, "subject": "causal_reasoning"}
+{"question": "The man hated his new haircut. What happened as a result?", "choices": ["He wore a hat.", "He grew a beard."], "answer": 0, "subject": "causal_reasoning"}
+{"question": "The police aimed their weapons at the fugitive. What happened as a result?", "choices": ["The fugitive fell to the ground.", "The fugitive dropped his gun."], "answer": 1, "subject": "causal_reasoning"}
+{"question": "The patient was dehydrated. What happened as a result?", "choices": ["The nurse tested his reflexes.", "The nurse gave him an IV."], "answer": 1, "subject": "causal_reasoning"}
+{"question": "The girl found the missing puzzle piece. What happened as a result?", "choices": ["She completed the puzzle.", "She took apart the puzzle."], "answer": 0, "subject": "causal_reasoning"}
+{"question": "The man urgently leaped out of bed. What was the cause of this?", "choices": ["He wanted to shut off the alarm clock.", "He wanted to iron his pants before work."], "answer": 0, "subject": "causal_reasoning"}
+{"question": "The papers were disorganized. What happened as a result?", "choices": ["I made photocopies of them.", "I put them into alphabetical order."], "answer": 1, "subject": "causal_reasoning"}
+{"question": "The woman won the lottery. What happened as a result?", "choices": ["She bought a yacht.", "She joined a church."], "answer": 0, "subject": "causal_reasoning"}
+{"question": "The seamstress pushed the threaded needle into the fabric. What happened as a result?", "choices": ["The thread wrapped around the needle.", "The thread went through the fabric."], "answer": 1, "subject": "causal_reasoning"}
+{"question": "The woman hired a lawyer. What was the cause of this?", "choices": ["She decided to sue her employer.", "She decided to run for office."], "answer": 0, "subject": "causal_reasoning"}
+{"question": "The tenant misplaced his keys to his apartment. What happened as a result?", "choices": ["His landlord unlocked the door.", "His landlord repaired the door."], "answer": 0, "subject": "causal_reasoning"}
+{"question": "My favorite song came on the radio. What happened as a result?", "choices": ["I covered my ears.", "I sang along to it."], "answer": 1, "subject": "causal_reasoning"}
+{"question": "The executive decided not to hire the applicant. What was the cause of this?", "choices": ["The applicant failed a background check.", "The applicant had experience for the job."], "answer": 0, "subject": "causal_reasoning"}
+{"question": "The man's eye became infected. What happened as a result?", "choices": ["He went blind.", "He put on glasses."], "answer": 0, "subject": "causal_reasoning"}
+{"question": "The bird couldn't fly. What was the cause of this?", "choices": ["It migrated for the winter.", "It injured its wing."], "answer": 1, "subject": "causal_reasoning"}
+{"question": "The girl made a wish. What was the cause of this?", "choices": ["She saw a black cat.", "She saw a shooting star."], "answer": 1, "subject": "causal_reasoning"}
+{"question": "The woman shivered as she got out the pool. What happened as a result?", "choices": ["She wrapped herself in a towel.", "She poured herself some lemonade."], "answer": 0, "subject": "causal_reasoning"}
+{"question": "The nurse prepared the needle for the patient's injection. What happened as a result?", "choices": ["The patient bled.", "The patient tensed up."], "answer": 1, "subject": "causal_reasoning"}
+{"question": "The man threw out the bread. What was the cause of this?", "choices": ["It was fresh.", "It was stale."], "answer": 1, "subject": "causal_reasoning"}
+{"question": "The children knocked over a lamp. What was the cause of this?", "choices": ["They had a pillow fight.", "They jumped on the bed."], "answer": 0, "subject": "causal_reasoning"}
+{"question": "I drank from the water fountain. What was the cause of this?", "choices": ["I was thirsty.", "I felt nauseous."], "answer": 0, "subject": "causal_reasoning"}
+{"question": "The homeowners disliked their nosy neighbors. What happened as a result?", "choices": ["They built a fence around their property.", "They hosted a barbeque in their backyard."], "answer": 0, "subject": "causal_reasoning"}
+{"question": "The bodybuilder lifted weights. What happened as a result?", "choices": ["The gym closed.", "Her muscles became fatigued."], "answer": 1, "subject": "causal_reasoning"}
+{"question": "The cook stirred the ingredients in the bowl. What happened as a result?", "choices": ["The ingredients melted.", "The ingredients blended together."], "answer": 1, "subject": "causal_reasoning"}
+{"question": "The man signed the document. What happened as a result?", "choices": ["The transaction was voided.", "The transaction became official."], "answer": 1, "subject": "causal_reasoning"}
+{"question": "The police officer dropped the gun. What happened as a result?", "choices": ["The gun recoiled.", "The gun went off."], "answer": 1, "subject": "causal_reasoning"}
+{"question": "The woman felt compelled to help someone in need. What happened as a result?", "choices": ["She donated blood.", "She wrote a poem."], "answer": 0, "subject": "causal_reasoning"}
+{"question": "The woman felt lonely. What happened as a result?", "choices": ["She renovated her kitchen.", "She adopted a cat."], "answer": 1, "subject": "causal_reasoning"}
+{"question": "I rubbed sandpaper on the wood. What happened as a result?", "choices": ["The wood became smooth.", "The wood became sticky."], "answer": 0, "subject": "causal_reasoning"}
+{"question": "The crowd gave the band a standing ovation. What happened as a result?", "choices": ["The band signed autographs.", "The band reappeared on the stage."], "answer": 1, "subject": "causal_reasoning"}
+{"question": "The man threw his empty can onto the street. What happened as a result?", "choices": ["He was jumped from behind.", "He was fined for littering."], "answer": 1, "subject": "causal_reasoning"}
+{"question": "My stomach growled. What was the cause of this?", "choices": ["I forgot to eat breakfast.", "I was full from breakfast."], "answer": 0, "subject": "causal_reasoning"}
+{"question": "The boaters set off a flare. What happened as a result?", "choices": ["Their boat drifted to shore.", "Their boat was rescued."], "answer": 1, "subject": "causal_reasoning"}
+{"question": "The man removed his coat. What was the cause of this?", "choices": ["He entered the house.", "He loosened his tie."], "answer": 0, "subject": "causal_reasoning"}
+{"question": "The family took their dog to the veterinarian. What was the cause of this?", "choices": ["The dog chewed on a bone.", "The dog injured his paw."], "answer": 1, "subject": "causal_reasoning"}
+{"question": "The woman dangled the biscuit above the dog. What happened as a result?", "choices": ["The dog jumped up.", "The dog scratched its fur."], "answer": 0, "subject": "causal_reasoning"}
+{"question": "I learned how to play the board game. What was the cause of this?", "choices": ["My friend explained the rules to me.", "My friend got the rules wrong."], "answer": 0, "subject": "causal_reasoning"}
+{"question": "The man went away for the weekend. What was the cause of this?", "choices": ["He wanted to relax.", "He felt content."], "answer": 0, "subject": "causal_reasoning"}
+{"question": "The shop was closed. What was the cause of this?", "choices": ["The owner was helping customers.", "The shop was undergoing renovation."], "answer": 1, "subject": "causal_reasoning"}
+{"question": "The boy tuned the radio. What was the cause of this?", "choices": ["The station was playing rock music.", "The station was coming in with static."], "answer": 1, "subject": "causal_reasoning"}
+{"question": "The terrorist set off the bomb. What happened as a result?", "choices": ["The bomb exploded.", "The bomb was deactivated."], "answer": 0, "subject": "causal_reasoning"}
+{"question": "The police handcuffed the suspect. What was the cause of this?", "choices": ["The police called for backup.", "The suspect resisted arrest."], "answer": 1, "subject": "causal_reasoning"}
+{"question": "The authorities vowed to protect the identity of the crime victim. What happened as a result?", "choices": ["The victim struggled to recall details about the crime.", "They withheld the victim's name from the public."], "answer": 1, "subject": "causal_reasoning"}
+{"question": "The man's clothes fit loosely. What was the cause of this?", "choices": ["He bought them on sale.", "He lost weight."], "answer": 1, "subject": "causal_reasoning"}
+{"question": "The clock stopped ticking. What happened as a result?", "choices": ["I took extra time to get ready.", "The clock showed the wrong time."], "answer": 1, "subject": "causal_reasoning"}
+{"question": "The man closed the umbrella. What was the cause of this?", "choices": ["He got out of the car.", "He approached the building."], "answer": 1, "subject": "causal_reasoning"}
+{"question": "The man craved a cigarette. What was the cause of this?", "choices": ["His family urged him to quit smoking.", "He was addicted to nicotine."], "answer": 1, "subject": "causal_reasoning"}
+{"question": "The man dropped food on the floor. What happened as a result?", "choices": ["His dog jumped up on him.", "His dog ran over to eat the food."], "answer": 1, "subject": "causal_reasoning"}
+{"question": "The girl was angry with her friend. What happened as a result?", "choices": ["The girl spread a rumor about her friend.", "The girl told a secret to her friend."], "answer": 0, "subject": "causal_reasoning"}
+{"question": "The fugitive hid from the police. What happened as a result?", "choices": ["The police dropped the case.", "The fugitive remained at large."], "answer": 1, "subject": "causal_reasoning"}
+{"question": "I tipped the bottle. What happened as a result?", "choices": ["The liquid in the bottle froze.", "The liquid in the bottle poured out."], "answer": 1, "subject": "causal_reasoning"}
+{"question": "The woman spoke with a foreign accent. What was the cause of this?", "choices": ["She came from a wealthy family.", "She migrated from another country."], "answer": 1, "subject": "causal_reasoning"}
+{"question": "The boy's mouth stung. What was the cause of this?", "choices": ["He ate a pepper.", "He blew out the candle."], "answer": 0, "subject": "causal_reasoning"}
+{"question": "I finished a page of the book. What happened as a result?", "choices": ["I ripped out the next page.", "I turned to the next page."], "answer": 1, "subject": "causal_reasoning"}
+{"question": "The service at the restaurant was slow. What was the cause of this?", "choices": ["There were many empty tables.", "The restaurant was crowded."], "answer": 1, "subject": "causal_reasoning"}
+{"question": "I saw a woman getting robbed on the street. What happened as a result?", "choices": ["I called 911.", "I hailed a cab."], "answer": 0, "subject": "causal_reasoning"}
+{"question": "My stomach hurt. What was the cause of this?", "choices": ["I jogged on the treadmill.", "I ate birthday cake."], "answer": 1, "subject": "causal_reasoning"}
+{"question": "I put my plate in the sink. What was the cause of this?", "choices": ["I finished eating.", "I skipped dinner."], "answer": 0, "subject": "causal_reasoning"}
+{"question": "The man closed the book. What was the cause of this?", "choices": ["He finished reading it.", "It provoked him to think."], "answer": 0, "subject": "causal_reasoning"}
+{"question": "The boy read the novel aloud to his grandfather. What was the cause of this?", "choices": ["His grandfather was deaf.", "His grandfather was blind."], "answer": 1, "subject": "causal_reasoning"}
+{"question": "My foot went numb. What happened as a result?", "choices": ["I put my shoes on.", "I shook my foot."], "answer": 1, "subject": "causal_reasoning"}
+{"question": "The photographer got the child to smile. What happened as a result?", "choices": ["The photographer quickly snapped the child's photo.", "The photographer quickly changed the child's pose."], "answer": 0, "subject": "causal_reasoning"}
+{"question": "The window was opaque. What was the cause of this?", "choices": ["The glass was stained.", "The blinds were open."], "answer": 0, "subject": "causal_reasoning"}
+{"question": "I slipped on the floor. What was the cause of this?", "choices": ["The tile was wet.", "The tile was cracked."], "answer": 0, "subject": "causal_reasoning"}
+{"question": "The man slid the razor across his chin. What happened as a result?", "choices": ["His stubble grew.", "His stubble disappeared."], "answer": 1, "subject": "causal_reasoning"}
+{"question": "The woman took her family on vacation. What was the cause of this?", "choices": ["Her husband got laid off.", "She received a salary bonus."], "answer": 1, "subject": "causal_reasoning"}
+{"question": "The woman awakened. What was the cause of this?", "choices": ["She took sleeping pills.", "Her husband was snoring."], "answer": 1, "subject": "causal_reasoning"}
+{"question": "The woman sensed a pleasant smell. What happened as a result?", "choices": ["She remembered to take her medication.", "She was reminded of her childhood."], "answer": 1, "subject": "causal_reasoning"}
+{"question": "The bar closed. What was the cause of this?", "choices": ["It was crowded.", "It was 3 AM."], "answer": 1, "subject": "causal_reasoning"}
+{"question": "The driver got pulled over by the police. What was the cause of this?", "choices": ["He was parking.", "He was speeding."], "answer": 1, "subject": "causal_reasoning"}
+{"question": "The teacher took roll. What happened as a result?", "choices": ["She identified the students that were absent.", "She gave her students a pop quiz."], "answer": 0, "subject": "causal_reasoning"}
+{"question": "I pushed the pendulum. What happened as a result?", "choices": ["It slowed to a stop.", "It swung back and forth."], "answer": 1, "subject": "causal_reasoning"}
+{"question": "The child kicked the stack of blocks. What happened as a result?", "choices": ["The stack towered over the boy's head.", "The blocks scattered all over the rug."], "answer": 1, "subject": "causal_reasoning"}
+{"question": "The teenager ran away from home. What was the cause of this?", "choices": ["He relied on his parents.", "His parents abused him."], "answer": 1, "subject": "causal_reasoning"}
+{"question": "I botched the job interview. What was the cause of this?", "choices": ["The interviewer asked difficult questions.", "I anticipated the interviewer's questions."], "answer": 0, "subject": "causal_reasoning"}
+{"question": "The pharmaceutical company recalled the drug. What was the cause of this?", "choices": ["Users reported dangerous side effects.", "Users got refills on their prescriptions."], "answer": 0, "subject": "causal_reasoning"}
+{"question": "The man looked at his watch. What happened as a result?", "choices": ["He realized he forgot something.", "He realized he was early."], "answer": 1, "subject": "causal_reasoning"}
+{"question": "I dabbed the floor with a paper towel. What was the cause of this?", "choices": ["I spilled juice on the floor.", "The floor was permanently stained."], "answer": 0, "subject": "causal_reasoning"}
+{"question": "The bartender refused to serve the patron. What was the cause of this?", "choices": ["The patron was alone.", "The patron was drunk."], "answer": 1, "subject": "causal_reasoning"}
+{"question": "I was confused by the professor's lecture. What happened as a result?", "choices": ["I paid attention to the professor.", "I asked the professor questions."], "answer": 1, "subject": "causal_reasoning"}
+{"question": "The book was deemed inappropriate for children. What happened as a result?", "choices": ["Schools banned it from its libraries.", "Teachers required students to read it."], "answer": 0, "subject": "causal_reasoning"}
+{"question": "The man begged for forgiveness. What happened as a result?", "choices": ["The woman took pity on him.", "The woman joked around with him."], "answer": 0, "subject": "causal_reasoning"}
+{"question": "I received a package in the mail. What happened as a result?", "choices": ["The package triggered my curiosity.", "I took the package to the post office."], "answer": 0, "subject": "causal_reasoning"}
+{"question": "The surfer caught the wave. What happened as a result?", "choices": ["The wave carried her to the shore.", "She paddled her board into the ocean."], "answer": 0, "subject": "causal_reasoning"}
+{"question": "The speaker disarmed her debate opponent. What happened as a result?", "choices": ["The speaker congratulated her opponent.", "The speaker won the debate."], "answer": 1, "subject": "causal_reasoning"}
+{"question": "I moved to a new city. What was the cause of this?", "choices": ["I found a better-paying job.", "My son was born."], "answer": 0, "subject": "causal_reasoning"}
+{"question": "I avoided giving a straight answer to the question. What was the cause of this?", "choices": ["The question made me uncomfortable.", "I wanted to be honest."], "answer": 0, "subject": "causal_reasoning"}
+{"question": "The student received detention. What was the cause of this?", "choices": ["He talked back to the teacher.", "The teacher graded his homework."], "answer": 0, "subject": "causal_reasoning"}
+{"question": "The boy's hands were shaking. What was the cause of this?", "choices": ["He planned to ask the girl out.", "His palms were cold and sweaty."], "answer": 0, "subject": "causal_reasoning"}
+{"question": "The fans in the stadium cheered. What was the cause of this?", "choices": ["The game ended in a tie.", "The player scored."], "answer": 1, "subject": "causal_reasoning"}
+{"question": "The girl went down the hill on her bike. What happened as a result?", "choices": ["Her bike swerved.", "Her bike sped up."], "answer": 1, "subject": "causal_reasoning"}
+{"question": "A man cut in front of me in the long line. What happened as a result?", "choices": ["I confronted him.", "I smiled at him."], "answer": 0, "subject": "causal_reasoning"}
+{"question": "The inside of the train went dark. What was the cause of this?", "choices": ["The train travelled through a tunnel.", "The train ran off the tracks."], "answer": 0, "subject": "causal_reasoning"}
+{"question": "The man contemplated the painting. What happened as a result?", "choices": ["He felt in awe.", "He collapsed."], "answer": 0, "subject": "causal_reasoning"}
+{"question": "The turtle hid in its shell. What was the cause of this?", "choices": ["It ate a fish.", "It detected a predator."], "answer": 1, "subject": "causal_reasoning"}
+{"question": "The girl handed down her clothes to her younger sister. What was the cause of this?", "choices": ["The clothes were tattered.", "She outgrew the clothes."], "answer": 1, "subject": "causal_reasoning"}
+{"question": "Several witnesses of the crime testified against the suspect. What happened as a result?", "choices": ["The suspect was acquitted.", "The suspect was convicted."], "answer": 1, "subject": "causal_reasoning"}
+{"question": "The parents left their children with a babysitter. What was the cause of this?", "choices": ["Their youngest child started attending preschool.", "They made plans to celebrate their anniversary."], "answer": 1, "subject": "causal_reasoning"}
+{"question": "The trip took a long time. What was the cause of this?", "choices": [" The driver talked the whole way.", "The driver made a wrong turn."], "answer": 1, "subject": "causal_reasoning"}
+{"question": "The product was heavily advertised. What happened as a result?", "choices": ["Consumers recognized the product.", "The product became outdated."], "answer": 0, "subject": "causal_reasoning"}
+{"question": "I rubbed the soap between my hands. What happened as a result?", "choices": ["The soap foamed.", "My hands went numb."], "answer": 0, "subject": "causal_reasoning"}
+{"question": "The cowgirl threw her lasso towards the horse. What happened as a result?", "choices": ["The lasso grabbed onto the horse.", "The horse trotted into the barn."], "answer": 0, "subject": "causal_reasoning"}
+{"question": "The group overlooked the woman's faux pas. What happened as a result?", "choices": ["The woman was relieved.", "The woman apologized."], "answer": 0, "subject": "causal_reasoning"}
+{"question": "The girl came across an unfamiliar word in her textbook. What happened as a result?", "choices": ["She looked the term up in the dictionary.", "She chucked the textbook across the room."], "answer": 0, "subject": "causal_reasoning"}
+{"question": "The man became disabled. What happened as a result?", "choices": ["His family offered him financial support.", "His family cut off contact with him."], "answer": 0, "subject": "causal_reasoning"}
+{"question": "The flashlight was dead. What happened as a result?", "choices": ["I took it apart.", "I replaced the batteries."], "answer": 1, "subject": "causal_reasoning"}
+{"question": "The skunk sprayed the dog. What happened as a result?", "choices": ["The dog emitted a foul smell.", "The skunk roamed the woods."], "answer": 0, "subject": "causal_reasoning"}
+{"question": "I scratched my skin. What happened as a result?", "choices": ["My itch went away.", "My scar faded."], "answer": 0, "subject": "causal_reasoning"}
+{"question": "I wrote a thank-you note to my grandmother. What was the cause of this?", "choices": ["She became forgetful.", "She sent me a gift."], "answer": 1, "subject": "causal_reasoning"}
+{"question": "A burglar broke into the house. What happened as a result?", "choices": ["The homeowners were asleep.", "The security alarm went off."], "answer": 1, "subject": "causal_reasoning"}
+{"question": "I held the door for the woman entering behind me. What happened as a result?", "choices": ["The door slammed shut.", "The woman thanked me."], "answer": 1, "subject": "causal_reasoning"}
+{"question": "The mirror in the bathroom fogged up. What happened as a result?", "choices": ["The girl turned on the fan.", "The girl applied her makeup."], "answer": 0, "subject": "causal_reasoning"}
+{"question": "The security guard tackled the man. What was the cause of this?", "choices": ["The man reached into his pocket.", "The man displayed a weapon."], "answer": 1, "subject": "causal_reasoning"}
+{"question": "The driver rotated the steering wheel. What happened as a result?", "choices": ["The car halted.", "The car turned."], "answer": 1, "subject": "causal_reasoning"}
+{"question": "The army surrendered the battle. What was the cause of this?", "choices": ["They were outnumbered.", "They stormed the city."], "answer": 0, "subject": "causal_reasoning"}
+{"question": "The navy bombed the ship. What happened as a result?", "choices": ["The ship crashed into the pier.", "The ship's debris sunk in the sea."], "answer": 1, "subject": "causal_reasoning"}
+{"question": "I ironed my shirt. What was the cause of this?", "choices": ["It was clean.", "It was wrinkled."], "answer": 1, "subject": "causal_reasoning"}
+{"question": "The girl felt dizzy. What happened as a result?", "choices": ["She lost her balance.", "She did stretches."], "answer": 0, "subject": "causal_reasoning"}
+{"question": "The driver pulled over to the side of the road. What was the cause of this?", "choices": ["He went through an intersection.", "He noticed a stranded vehicle."], "answer": 1, "subject": "causal_reasoning"}
+{"question": "The hospital sent the patient home. What was the cause of this?", "choices": ["The patient's symptoms cleared up.", "The patient's family visited him."], "answer": 0, "subject": "causal_reasoning"}
+{"question": "The child caught a life-threatening illness. What was the cause of this?", "choices": ["She didn't get vaccinated.", "She was adopted."], "answer": 0, "subject": "causal_reasoning"}
+{"question": "We found empty seats in the theatre. What happened as a result?", "choices": ["The film began.", "We sat down."], "answer": 1, "subject": "causal_reasoning"}
+{"question": "The parents recognized their daughter's creativity. What happened as a result?", "choices": ["They taught her how to ride a bike.", "They encouraged her to become an artist."], "answer": 1, "subject": "causal_reasoning"}
+{"question": "The boy turned the lid on the jar. What happened as a result?", "choices": ["The jar became warm.", "The lid came off."], "answer": 1, "subject": "causal_reasoning"}
+{"question": "The woman received a diploma. What was the cause of this?", "choices": ["She enrolled in college.", "She graduated from college."], "answer": 1, "subject": "causal_reasoning"}
+{"question": "I chugged the pitcher of water. What was the cause of this?", "choices": ["I walked upstairs.", "I ran five miles."], "answer": 1, "subject": "causal_reasoning"}
+{"question": "I came upon a puddle on the sidewalk. What happened as a result?", "choices": ["I leapt over the puddle.", "I played in the puddle."], "answer": 0, "subject": "causal_reasoning"}
+{"question": "The woman covered her ears. What was the cause of this?", "choices": ["The fire alarm blared.", "The woman smelled smoke."], "answer": 0, "subject": "causal_reasoning"}
+{"question": "The archeologist dug up the site. What happened as a result?", "choices": ["She excavated ancient artifacts.", "She read about the site's history."], "answer": 0, "subject": "causal_reasoning"}
+{"question": "The audience booed the comedian off the stage. What was the cause of this?", "choices": ["He told a racist joke.", "He entertained the audience."], "answer": 0, "subject": "causal_reasoning"}
+{"question": "The coach gave his player a high five. What was the cause of this?", "choices": ["The player got a penalty.", "The player scored a point."], "answer": 1, "subject": "causal_reasoning"}
+{"question": "I tossed the ball upwards. What happened as a result?", "choices": ["The ball rolled across the ground.", "The ball hit the ceiling."], "answer": 1, "subject": "causal_reasoning"}
+{"question": "My breath smelled of garlic. What happened as a result?", "choices": ["I wiped my mouth.", "I brushed my teeth."], "answer": 1, "subject": "causal_reasoning"}
+{"question": "The man was lost. What happened as a result?", "choices": ["He asked for directions.", "He drew a map."], "answer": 0, "subject": "causal_reasoning"}
+{"question": "The baby pulled the mother's hair. What happened as a result?", "choices": ["The baby burped.", "The mother grimaced."], "answer": 1, "subject": "causal_reasoning"}
+{"question": "I stood on one foot. What happened as a result?", "choices": ["My balance wavered.", "I kneeled down."], "answer": 0, "subject": "causal_reasoning"}
+{"question": "I pushed the gas pedal. What happened as a result?", "choices": ["The car accelerated.", "The car door opened."], "answer": 0, "subject": "causal_reasoning"}
+{"question": "My car was towed. What was the cause of this?", "choices": ["I parked illegally.", "I jumped the battery."], "answer": 0, "subject": "causal_reasoning"}
+{"question": "The woman got away with the crime. What was the cause of this?", "choices": ["Her accomplice was apprehended.", "She destroyed the evidence."], "answer": 1, "subject": "causal_reasoning"}
+{"question": "The dust came off the desk. What was the cause of this?", "choices": ["I wiped the desk with a cloth.", "I removed the books from the desk."], "answer": 0, "subject": "causal_reasoning"}
+{"question": "The motorcyclist twisted the throttle. What happened as a result?", "choices": ["The motorcycle coasted to a halt.", "The motorcycle shot forward."], "answer": 1, "subject": "causal_reasoning"}
+{"question": "The teacher caught the student chewing gum. What happened as a result?", "choices": ["The gum stuck to the student's shoe.", "The student spit out the gum."], "answer": 1, "subject": "causal_reasoning"}
+{"question": "The host served dinner to his guests. What happened as a result?", "choices": ["His guests were gracious.", "His guests went hungry."], "answer": 0, "subject": "causal_reasoning"}
+{"question": "The boy climbed the tree. What was the cause of this?", "choices": ["A cat got stuck in the tree.", "A bird built a nest in the tree."], "answer": 0, "subject": "causal_reasoning"}
+{"question": "The chair squeaked. What was the cause of this?", "choices": ["The man carried the chair to his office.", "The man scooted the chair closer to his desk."], "answer": 1, "subject": "causal_reasoning"}
+{"question": "The father shut off the children's television. What was the cause of this?", "choices": ["It was bedtime for the children.", "The children were watching cartoons."], "answer": 0, "subject": "causal_reasoning"}
+{"question": "The man held his breath. What was the cause of this?", "choices": ["He went underwater.", "He treaded water."], "answer": 0, "subject": "causal_reasoning"}
+{"question": "I clumsily bumped into the stranger. What happened as a result?", "choices": ["I ran away.", "I apologized to him."], "answer": 1, "subject": "causal_reasoning"}
+{"question": "The boat capsized. What was the cause of this?", "choices": ["The captain raised the sail.", "It was caught in a hurricane."], "answer": 1, "subject": "causal_reasoning"}
+{"question": "The mother suspected that her son was lying. What was the cause of this?", "choices": ["He refused to talk to her.", "He avoided making eye contact with her."], "answer": 1, "subject": "causal_reasoning"}
+{"question": "The young woman was denied entrance into the bar. What was the cause of this?", "choices": ["Her friends stood her up.", "She forgot her ID."], "answer": 1, "subject": "causal_reasoning"}
+{"question": "A crater formed on the moon. What was the cause of this?", "choices": ["A comet passed by the moon.", "A comet collided with the moon."], "answer": 1, "subject": "causal_reasoning"}
+{"question": "I planted the seeds in the soil. What happened as a result?", "choices": ["I watered the soil.", "The seeds sprouted."], "answer": 1, "subject": "causal_reasoning"}
+{"question": "The benefactor requested to stay anonymous. What was the cause of this?", "choices": ["He wanted to maintain his privacy.", "He supported the cause behind his donation."], "answer": 0, "subject": "causal_reasoning"}
+{"question": "The woman felt ashamed of scar on her face. What happened as a result?", "choices": ["She explained the scar to strangers.", "She hid the scar with makeup."], "answer": 1, "subject": "causal_reasoning"}
+{"question": "The doctor x-rayed the patient's arm. What happened as a result?", "choices": ["He discovered that the patient's arm was broken.", "He put the patient's arm in a cast."], "answer": 0, "subject": "causal_reasoning"}
+{"question": "The boy filled the bucket with sand. What was the cause of this?", "choices": ["He was collecting seashells in the sand.", "He was building a sand castle."], "answer": 1, "subject": "causal_reasoning"}
+{"question": "The woman upgraded her computer hardware. What happened as a result?", "choices": ["She deleted old files on the computer.", "She installed new software on the computer."], "answer": 1, "subject": "causal_reasoning"}
+{"question": "The girl performed in a dance recital. What happened as a result?", "choices": ["Her parents showed her how to dance.", "Her parents came to watch the recital."], "answer": 1, "subject": "causal_reasoning"}
+{"question": "The baby was wailing in his crib. What happened as a result?", "choices": ["The mother picked up the baby.", "The baby crawled to the mother."], "answer": 0, "subject": "causal_reasoning"}
+{"question": "The woman had a religious awakening. What happened as a result?", "choices": ["She began going to church.", "She began travelling abroad."], "answer": 0, "subject": "causal_reasoning"}
+{"question": "The bureau drawers were cluttered. What happened as a result?", "choices": ["I threw away unnecessary contents.", "I locked the drawers shut."], "answer": 0, "subject": "causal_reasoning"}
+{"question": "The student flaunted his test grade to his classmates. What was the cause of this?", "choices": ["He received a perfect score.", "He feigned interest in the class."], "answer": 0, "subject": "causal_reasoning"}
+{"question": "The boy felt homesick. What was the cause of this?", "choices": ["He went away to camp.", "He bickered with his sister."], "answer": 0, "subject": "causal_reasoning"}
+{"question": "The rocket flew up into the sky. What was the cause of this?", "choices": ["The girl launched it.", "The girl designed it."], "answer": 0, "subject": "causal_reasoning"}
+{"question": "The boy murmured his reply to his mother. What happened as a result?", "choices": ["His mother told him to whisper.", "His mother told him to speak up."], "answer": 1, "subject": "causal_reasoning"}
+{"question": "My flight got delayed. What was the cause of this?", "choices": ["Tornadoes were sighted in the area.", "I was held up at airport security."], "answer": 0, "subject": "causal_reasoning"}
+{"question": "The smoke alarm went off. What was the cause of this?", "choices": ["I lit a candle.", "I burnt my dinner."], "answer": 1, "subject": "causal_reasoning"}
+{"question": "The vase broke. What happened as a result?", "choices": ["I stenciled it.", "I glued it back together."], "answer": 1, "subject": "causal_reasoning"}
+{"question": "The woman felt an electric shock. What was the cause of this?", "choices": ["She grabbed the doorknob.", "She pounded on the door."], "answer": 0, "subject": "causal_reasoning"}
+{"question": "The man had lipstick on his cheek. What was the cause of this?", "choices": ["The woman kissed him.", "The woman made him blush."], "answer": 0, "subject": "causal_reasoning"}
+{"question": "I jumped instinctively in fright. What was the cause of this?", "choices": ["I sensed someone approaching me from behind.", "I heard people chuckling in the adjacent room."], "answer": 0, "subject": "causal_reasoning"}
+{"question": "The gardener wanted his plants to flourish. What happened as a result?", "choices": ["He planted a variety of seeds.", "He put fertilizer in the soil."], "answer": 1, "subject": "causal_reasoning"}
+{"question": "A water pipe in the house burst. What was the cause of this?", "choices": ["The water was unsanitary.", "The pipe froze."], "answer": 1, "subject": "causal_reasoning"}
+{"question": "The waistband on my pants was loose. What happened as a result?", "choices": ["I put on a belt.", "I put on a hat."], "answer": 0, "subject": "causal_reasoning"}
+{"question": "The company lost money. What was the cause of this?", "choices": ["Its products received positive consumer reviews.", "Some of its products were manufactured defectively."], "answer": 1, "subject": "causal_reasoning"}
+{"question": "The tenants were evicted from the apartment. What was the cause of this?", "choices": ["They neglected to pay their rent.", "They got along with their landlord."], "answer": 0, "subject": "causal_reasoning"}
+{"question": "The man woke up with a toothache. What happened as a result?", "choices": ["He missed an appointment with the dentist.", "He made an appointment with the dentist."], "answer": 1, "subject": "causal_reasoning"}
+{"question": "The team lost the game. What was the cause of this?", "choices": ["Their best player was injured.", "Their coach pumped them up."], "answer": 0, "subject": "causal_reasoning"}
+{"question": "The parents forbade their children from watching the movie.  What was the cause of this?", "choices": ["The movie was rated R.", "The movie was animated."], "answer": 0, "subject": "causal_reasoning"}
+{"question": "The woman deleted the email. What was the cause of this?", "choices": ["The sender tried to solicit money from her.", "The sender requested a response from her."], "answer": 0, "subject": "causal_reasoning"}
+{"question": "The police eliminated the woman from the list of suspects. What was the cause of this?", "choices": ["The police interrogated her.", "Her alibi checked out."], "answer": 1, "subject": "causal_reasoning"}
+{"question": "The climbers reached the peak of the mountain. What happened as a result?", "choices": ["They encountered an avalanche.", "They congratulated each other."], "answer": 1, "subject": "causal_reasoning"}
+{"question": "The vandals threw a rock at the window. What happened as a result?", "choices": ["The window cracked.", "The window fogged up."], "answer": 0, "subject": "causal_reasoning"}
+{"question": "The fortune teller's revelations were convincing. What happened as a result?", "choices": ["She received many returning customers.", "Many customers asked for refunds."], "answer": 0, "subject": "causal_reasoning"}
+{"question": "The woman's makeup smeared. What was the cause of this?", "choices": ["She brushed her hair.", "She wiped her eyes."], "answer": 1, "subject": "causal_reasoning"}
+{"question": "The company's profits started to level off. What happened as a result?", "choices": ["It increased its marketing efforts for new products.", "It moved its headquarters to a suburban location."], "answer": 0, "subject": "causal_reasoning"}
+{"question": "The student's answer on the exam was incorrect. What happened as a result?", "choices": ["The teacher added bonus points to the student's grade.", "The teacher subtracted points off the student's grade."], "answer": 1, "subject": "causal_reasoning"}
+{"question": "The girl wanted to demonstrate proper etiquette. What happened as a result?", "choices": ["She threw away her napkin after eating.", "She put her napkin on her lap before eating."], "answer": 1, "subject": "causal_reasoning"}
+{"question": "The detective flashed his badge to the police officer. What happened as a result?", "choices": ["The police officer confiscated the detective's badge.", "The police officer let the detective enter the crime scene."], "answer": 1, "subject": "causal_reasoning"}
+{"question": "The girl wanted to make her mother happy. What happened as a result?", "choices": ["The girl ate the cookies her mother baked.", "The girl picked a flower for her mother."], "answer": 1, "subject": "causal_reasoning"}
+{"question": "The toddler started crying. What happened as a result?", "choices": ["Her parents took away her toy.", "Her parents gave her a toy."], "answer": 1, "subject": "causal_reasoning"}
+{"question": "The stranger cried out to me in a foreign language. What happened as a result?", "choices": ["I stared blankly at him.", "I stopped to chat with him."], "answer": 0, "subject": "causal_reasoning"}
+{"question": "The man uncovered incriminating evidence against his enemy. What happened as a result?", "choices": ["The man avoided his enemy.", "The man blackmailed his enemy."], "answer": 1, "subject": "causal_reasoning"}
+{"question": "The girl pushed herself off the top of the slide. What happened as a result?", "choices": ["She glided down the slide.", "She crawled up the slide."], "answer": 0, "subject": "causal_reasoning"}
+{"question": "My jaw dropped open. What was the cause of this?", "choices": ["I was unhappy.", "I was shocked."], "answer": 1, "subject": "causal_reasoning"}
+{"question": "The child disobeyed her parents. What happened as a result?", "choices": ["Her parents hugged her.", "Her parents punished her."], "answer": 1, "subject": "causal_reasoning"}
+{"question": "The car looked filthy. What happened as a result?", "choices": ["The owner took it to the car wash.", "He owner took it in for a paint job."], "answer": 0, "subject": "causal_reasoning"}
+{"question": "My friend paid for my ticket. What happened as a result?", "choices": ["I sought a refund.", "I paid her back."], "answer": 1, "subject": "causal_reasoning"}
+{"question": "The woman was wrongly convicted for the crime. What was the cause of this?", "choices": ["The jury was fair.", "She was framed."], "answer": 1, "subject": "causal_reasoning"}
+{"question": "The girl applied the scissors to the paper. What happened as a result?", "choices": ["The paper sliced apart.", "The paper crinkled."], "answer": 0, "subject": "causal_reasoning"}
+{"question": "The woman visited her family. What was the cause of this?", "choices": ["She distrusted them.", "She missed them."], "answer": 1, "subject": "causal_reasoning"}
+{"question": "I burst into a fit of laughter. What happened as a result?", "choices": ["My teeth began to chatter.", "My eyes welled up with tears."], "answer": 1, "subject": "causal_reasoning"}
+{"question": "The school principal implemented a dress code. What happened as a result?", "choices": ["Students protested the decision.", "Students were expelled from school."], "answer": 0, "subject": "causal_reasoning"}
+{"question": "The balloon expanded. What was the cause of this?", "choices": ["I blew into it.", "I pricked it."], "answer": 0, "subject": "causal_reasoning"}
+{"question": "I wanted to lighten the mood of the conversation. What happened as a result?", "choices": ["I remained quiet.", "I told a joke."], "answer": 1, "subject": "causal_reasoning"}
+{"question": "The man broke his toe. What was the cause of this?", "choices": ["He got a hole in his sock.", "He dropped a hammer on his foot."], "answer": 1, "subject": "causal_reasoning"}
+{"question": "The man had an attack of conscience. What happened as a result?", "choices": ["He manipulated his friend.", "He admitted his indiscretion."], "answer": 1, "subject": "causal_reasoning"}
+{"question": "A fistfight broke out in the hall of the school. What happened as a result?", "choices": ["The principal suspended the students involved.", "The principal called off classes for the day."], "answer": 0, "subject": "causal_reasoning"}
+{"question": "The photo albums collected dust in the attic. What was the cause of this?", "choices": ["They remained untouched for years.", "The family reminisced over the photos."], "answer": 0, "subject": "causal_reasoning"}
+{"question": "I got distracted from my conversation with the woman. What was the cause of this?", "choices": ["Everyone in the room was talking.", "The woman was telling a funny story."], "answer": 0, "subject": "causal_reasoning"}
+{"question": "I put coins in the washing machine at the laundromat. What happened as a result?", "choices": ["The machine powered on.", "I ran out of laundry detergent."], "answer": 0, "subject": "causal_reasoning"}
+{"question": "The family postponed the barbeque. What was the cause of this?", "choices": ["The forecast called for storms.", "It was a holiday weekend."], "answer": 0, "subject": "causal_reasoning"}
+{"question": "Air leaked out of the beach ball. What was the cause of this?", "choices": ["It was inflated.", "There was a hole in it."], "answer": 1, "subject": "causal_reasoning"}
+{"question": "Our group's conversation gradually lulled to silence. What happened as a result?", "choices": ["I felt awkward.", "I became enraged."], "answer": 0, "subject": "causal_reasoning"}
+{"question": "I clenched the candy wrapper in my fist. What happened as a result?", "choices": ["The wrapper crinkled.", "The wrapper ripped."], "answer": 0, "subject": "causal_reasoning"}
+{"question": "The woman pressed down on the piano key. What happened as a result?", "choices": ["A sound played.", "The key got stuck."], "answer": 0, "subject": "causal_reasoning"}
+{"question": "The girl met her favorite actor. What happened as a result?", "choices": ["She went to see his new film.", "She asked him for his autograph."], "answer": 1, "subject": "causal_reasoning"}
+{"question": "The vehicles travelled slowly. What was the cause of this?", "choices": ["It was cloudy.", "It was foggy."], "answer": 1, "subject": "causal_reasoning"}
+{"question": "The chandelier shattered on the floor. What was the cause of this?", "choices": ["The chandelier dropped from the ceiling.", "The chandelier's lights flickered on and off."], "answer": 0, "subject": "causal_reasoning"}
+{"question": "The cat purred. What was the cause of this?", "choices": ["It scratched me.", "I petted it."], "answer": 1, "subject": "causal_reasoning"}
+{"question": "The boy pushed his sister. What happened as a result?", "choices": ["His sister tattled on him.", "They played hide and seek."], "answer": 0, "subject": "causal_reasoning"}
+{"question": "The man gained weight. What happened as a result?", "choices": ["He got his suit altered.", "He got his shoes shined."], "answer": 0, "subject": "causal_reasoning"}
+{"question": "The clouds looked dark. What happened as a result?", "choices": ["I brought my laptop to work.", "I brought my umbrella to work."], "answer": 1, "subject": "causal_reasoning"}
+{"question": "The engine of the airplane was faulty. What happened as a result?", "choices": ["The airplane crashed.", "The pilot made an error."], "answer": 0, "subject": "causal_reasoning"}
+{"question": "Cars moved to the shoulder of the road. What was the cause of this?", "choices": ["The traffic light turned green.", "A screaming ambulance approached."], "answer": 1, "subject": "causal_reasoning"}
+{"question": "The boy lost hold of the bar of soap. What was the cause of this?", "choices": ["The bar was slippery.", "The bar emitted a fragrance."], "answer": 0, "subject": "causal_reasoning"}
+{"question": "The button on my shirt fell off. What happened as a result?", "choices": ["I sewed the button back on.", "I glued the button back on."], "answer": 0, "subject": "causal_reasoning"}
+{"question": "The celebrity wore sunglasses. What was the cause of this?", "choices": ["She wanted to thank her fans.", "She wanted to avoid recognition."], "answer": 1, "subject": "causal_reasoning"}
+{"question": "My grandmother passed away. What happened as a result?", "choices": ["My family held a funeral.", "My family held a reunion."], "answer": 0, "subject": "causal_reasoning"}
+{"question": "The police officer pulled over the celebrity. What happened as a result?", "choices": ["The celebrity offered the officer a bribe.", "The celebrity sued the police officer."], "answer": 0, "subject": "causal_reasoning"}
+{"question": "The man revealed personal information to the therapist. What was the cause of this?", "choices": ["He trusted the therapist.", "He disagreed with the therapist."], "answer": 0, "subject": "causal_reasoning"}
+{"question": "The man fell unconscious. What was the cause of this?", "choices": ["The assailant struck the man in the head.", "The assailant took the man's wallet."], "answer": 0, "subject": "causal_reasoning"}
+{"question": "I approached the man. What was the cause of this?", "choices": ["He looked busy.", "He looked familiar."], "answer": 1, "subject": "causal_reasoning"}
+{"question": "The leader received praise. What was the cause of this?", "choices": ["He fought poverty.", "He raised taxes."], "answer": 0, "subject": "causal_reasoning"}
+{"question": "The man read the cartoon in the newspaper. What happened as a result?", "choices": ["He sipped coffee.", "He chuckled."], "answer": 1, "subject": "causal_reasoning"}
+{"question": "My mailbox was overflowing with letters. What was the cause of this?", "choices": ["The lid on the mailbox broke.", "I went on vacation for two weeks."], "answer": 1, "subject": "causal_reasoning"}
+{"question": "The bananas ripened. What happened as a result?", "choices": ["We squeezed them.", "We ate them."], "answer": 1, "subject": "causal_reasoning"}
+{"question": "The chef pressed down on the dough. What happened as a result?", "choices": ["The dough crumbled.", "The dough flattened."], "answer": 1, "subject": "causal_reasoning"}
+{"question": "The clay hardened. What was the cause of this?", "choices": ["The potter rolled the clay into a ball.", "The potter put the clay in the oven."], "answer": 1, "subject": "causal_reasoning"}
+{"question": "My feet were blistered. What was the cause of this?", "choices": ["I went hiking.", "I went swimming."], "answer": 0, "subject": "causal_reasoning"}
+{"question": "The woman betrayed her friend. What happened as a result?", "choices": ["Her friend sent her a greeting card.", "Her friend cut off contact with her."], "answer": 1, "subject": "causal_reasoning"}
+{"question": "The man took notice of the woman. What was the cause of this?", "choices": ["He caught a whiff of her perfume.", "He had his back turned to her."], "answer": 0, "subject": "causal_reasoning"}
+{"question": "The woman and her boyfriend got into a fight. What happened as a result?", "choices": ["They stopped seeing each other.", "They planned a vacation together."], "answer": 0, "subject": "causal_reasoning"}
+{"question": "The bully stuck his foot out in front of his classmate. What happened as a result?", "choices": ["The bully picked up his classmate.", "The bully's classmate tripped."], "answer": 1, "subject": "causal_reasoning"}
+{"question": "The man wanted to get revenge on his enemy. What happened as a result?", "choices": ["The man framed his enemy for a crime.", "The man declared a truce with his enemy."], "answer": 0, "subject": "causal_reasoning"}
+{"question": "I drank a cup of coffee. What happened as a result?", "choices": ["My yawning ceased.", "I nodded off to sleep."], "answer": 0, "subject": "causal_reasoning"}
+{"question": "The woman was mistaken for her sister. What was the cause of this?", "choices": ["The woman was close with her sister.", "The woman looked like her sister."], "answer": 1, "subject": "causal_reasoning"}
+{"question": "The man made an error in his calculations. What was the cause of this?", "choices": ["He checked his work.", "His work was hasty."], "answer": 1, "subject": "causal_reasoning"}
+{"question": "The woman's eyeglasses fogged up. What was the cause of this?", "choices": ["She reclined by the pool.", "She entered the sauna."], "answer": 1, "subject": "causal_reasoning"}
+{"question": "The shopper wondered about the cost of the item. What happened as a result?", "choices": ["He checked its price tag.", "He decided to buy it."], "answer": 0, "subject": "causal_reasoning"}
+{"question": "The host of the trivia show called on the contestant for an answer. What was the cause of this?", "choices": ["The contestant was in the lead.", "The contestant rang the buzzer."], "answer": 1, "subject": "causal_reasoning"}
+{"question": "The boy was afraid to go to bed. What was the cause of this?", "choices": ["He turned on his nightlight.", "He watched a horror movie."], "answer": 1, "subject": "causal_reasoning"}
+{"question": "The woman wanted to be a doctor. What happened as a result?", "choices": ["She visited the hospital.", "She went to medical school."], "answer": 1, "subject": "causal_reasoning"}
+{"question": "The boy found the television show boring. What happened as a result?", "choices": ["He recorded it.", "He shut it off."], "answer": 1, "subject": "causal_reasoning"}
+{"question": "My daughter suffered an allergy attack. What happened as a result?", "choices": ["I encouraged her to take deep breaths.", "I took her to the emergency room."], "answer": 1, "subject": "causal_reasoning"}
+{"question": "The boy had trouble buttoning his shirt. What happened as a result?", "choices": ["He refused to wear the shirt.", "He asked his mother for help."], "answer": 1, "subject": "causal_reasoning"}
+{"question": "I spit out my chewing gum. What was the cause of this?", "choices": ["I blew a bubble with the gum.", "The gum lost its flavor."], "answer": 1, "subject": "causal_reasoning"}
+{"question": "The boy painted a picture for his mother. What happened as a result?", "choices": ["His mother hung the picture on the wall.", "His mother sold the picture to a gallery."], "answer": 0, "subject": "causal_reasoning"}
+{"question": "The competition ended. What happened as a result?", "choices": ["The teams got pumped up.", "The teams shook hands."], "answer": 1, "subject": "causal_reasoning"}
+{"question": "The girl politely declined the hamburger. What was the cause of this?", "choices": ["She was a vegetarian.", "She liked fast food."], "answer": 0, "subject": "causal_reasoning"}
+{"question": "I scrubbed the stain on the floor. What happened as a result?", "choices": ["I got rid of the stain.", "I got dirt on the floor."], "answer": 0, "subject": "causal_reasoning"}
+{"question": "The documents contained important information. What happened as a result?", "choices": ["I paper clipped them together.", "I kept them in a secure place."], "answer": 1, "subject": "causal_reasoning"}
+{"question": "The egg splattered. What was the cause of this?", "choices": ["I dropped it.", "I boiled it."], "answer": 0, "subject": "causal_reasoning"}
+{"question": "The girl pushed her friend. What happened as a result?", "choices": ["Her friend choked.", "Her friend fell over."], "answer": 1, "subject": "causal_reasoning"}
+{"question": "A group of teenagers crashed the party. What happened as a result?", "choices": ["The host of the party kicked them out.", "The host of the party invited them in."], "answer": 0, "subject": "causal_reasoning"}
+{"question": "The man took a shower. What was the cause of this?", "choices": ["He was sweaty from working out.", "He opened a new bar of soap."], "answer": 0, "subject": "causal_reasoning"}
+{"question": "The screen on the laptop went black. What was the cause of this?", "choices": ["The laptop's warranty expired.", "The laptop's battery died."], "answer": 1, "subject": "causal_reasoning"}
+{"question": "The book became a huge bestseller. What happened as a result?", "choices": ["It was adapted into a movie.", "The author faded into obscurity."], "answer": 0, "subject": "causal_reasoning"}
+{"question": "The man felt thankful to be alive. What was the cause of this?", "choices": ["He was cured of cancer.", "His wife was diagnosed with cancer."], "answer": 0, "subject": "causal_reasoning"}
+{"question": "The woman wrote a check to the gas company. What was the cause of this?", "choices": ["She preferred paying by cash.", "She received her monthly bill."], "answer": 1, "subject": "causal_reasoning"}
+{"question": "The woman felt reluctant to switch careers. What was the cause of this?", "choices": ["She made a lot of money in her current occupation.", "She endured a lot of stress in her current occupation."], "answer": 0, "subject": "causal_reasoning"}
+{"question": "The woman filed a restraining order against the man. What was the cause of this?", "choices": ["The man called her.", "The man stalked her."], "answer": 1, "subject": "causal_reasoning"}
+{"question": "The ocean tide was dangerous. What happened as a result?", "choices": ["The swimmers put on more sunscreen.", "The swimmers returned towards the shore."], "answer": 1, "subject": "causal_reasoning"}
+{"question": "The woman refused a second beer. What was the cause of this?", "choices": ["She was the designated driver for the night.", "She was familiar with the bartender."], "answer": 0, "subject": "causal_reasoning"}
+{"question": "I ran out of breath. What was the cause of this?", "choices": ["I climbed several flights of stairs.", "I read several chapters of the book."], "answer": 0, "subject": "causal_reasoning"}
+{"question": "The woman was deemed mentally ill. What happened as a result?", "choices": ["She was sent to a psychiatric institution.", "She sought a career as a psychiatrist."], "answer": 0, "subject": "causal_reasoning"}
+{"question": "The sun emerged from the clouds. What happened as a result?", "choices": ["The woman glanced at her watch.", "The woman took her sweater off."], "answer": 1, "subject": "causal_reasoning"}
+{"question": "The football coach lost his voice after the game. What was the cause of this?", "choices": ["He yelled whenever a player fumbled the ball.", "He whistled whenever a player scored a touchdown."], "answer": 0, "subject": "causal_reasoning"}
+{"question": "The woman complimented the man. What happened as a result?", "choices": ["He sneezed.", "He blushed."], "answer": 1, "subject": "causal_reasoning"}
+{"question": "I applied pressure to the cut on my arm. What happened as a result?", "choices": ["It healed.", "It stopped bleeding."], "answer": 1, "subject": "causal_reasoning"}
+{"question": "The woman had an infection. What happened as a result?", "choices": ["She took antibiotics.", "She washed her hands."], "answer": 0, "subject": "causal_reasoning"}
+{"question": "The woman was summoned for jury duty. What happened as a result?", "choices": ["She contacted her lawyer.", "She cancelled her appointments."], "answer": 1, "subject": "causal_reasoning"}
+{"question": "The woman fanned herself with her hand. What was the cause of this?", "choices": ["She installed the air conditioner in the room.", "The air conditioner in the room broke."], "answer": 1, "subject": "causal_reasoning"}
+{"question": "The doctors amputated the patient's leg. What was the cause of this?", "choices": ["It was badly bruised.", "It was severely infected."], "answer": 1, "subject": "causal_reasoning"}
+{"question": "The girl stared at herself in the mirror. What was the cause of this?", "choices": ["She felt self-conscious.", "The mirror was smudged."], "answer": 0, "subject": "causal_reasoning"}
+{"question": "The man was bitten by mosquitoes. What was the cause of this?", "choices": ["He went camping in the woods.", "He fell asleep on his couch."], "answer": 0, "subject": "causal_reasoning"}
+{"question": "The woman presented her brother with a gift. What happened as a result?", "choices": ["Her brother refused to accept the gift.", "Her brother unwrapped the gift."], "answer": 1, "subject": "causal_reasoning"}
+{"question": "The administrator cleared her throat. What happened as a result?", "choices": ["The meeting was postponed.", "The meeting commenced."], "answer": 1, "subject": "causal_reasoning"}
+{"question": "The children ran through the sprinkler. What was the cause of this?", "choices": ["They ate popsicles.", "They were hot."], "answer": 1, "subject": "causal_reasoning"}
+{"question": "The man needed coins to fill the parking meter. What happened as a result?", "choices": ["He searched under his car seats for loose change.", "He begged people on the street for loose change."], "answer": 0, "subject": "causal_reasoning"}
+{"question": "The customer thought the souvenir was overpriced. What happened as a result?", "choices": ["The vender sold it to him.", "He bargained with the vendor."], "answer": 1, "subject": "causal_reasoning"}
+{"question": "The scientist gained recognition. What was the cause of this?", "choices": ["She discovered a new species.", "She received tenure at the university."], "answer": 0, "subject": "causal_reasoning"}
+{"question": "The car stopped at the crosswalk. What happened as a result?", "choices": ["The pedestrian crossed the road.", "The pedestrian waited on the sidewalk."], "answer": 0, "subject": "causal_reasoning"}
+{"question": "The boy giggled uncontrollably. What was the cause of this?", "choices": ["His brother tickled him.", "His brother kicked him."], "answer": 0, "subject": "causal_reasoning"}
+{"question": "My knees buckled on the stairs. What happened as a result?", "choices": ["I caught myself on the railing.", "The railing came loose from the wall."], "answer": 0, "subject": "causal_reasoning"}
+{"question": "I went to bed. What was the cause of this?", "choices": ["It was a clear night.", "It was late."], "answer": 1, "subject": "causal_reasoning"}
+{"question": "My friend was recovering from surgery. What happened as a result?", "choices": ["I dropped her off at the hospital.", "I brought her a card and flowers."], "answer": 1, "subject": "causal_reasoning"}
+{"question": "The DJ turned the music on. What happened as a result?", "choices": ["People left the party.", "People began to dance."], "answer": 1, "subject": "causal_reasoning"}
+{"question": "The security guard replayed the surveillance footage. What was the cause of this?", "choices": ["The surveillance camera was out of focus.", "He noticed some suspicious activity."], "answer": 1, "subject": "causal_reasoning"}
+{"question": "I lingered in bed upon awakening. What was the cause of this?", "choices": ["I was hungry.", "It was Saturday."], "answer": 1, "subject": "causal_reasoning"}
+{"question": "The man lifted the heavy box. What happened as a result?", "choices": ["He put out his back.", "He scratched his back."], "answer": 0, "subject": "causal_reasoning"}
+{"question": "The woman's purse was missing. What was the cause of this?", "choices": ["It contained a lot of junk.", "She left it unsupervised."], "answer": 1, "subject": "causal_reasoning"}
+{"question": "The woman suffered amnesia. What was the cause of this?", "choices": ["She had an allergic reaction.", "She got into a car accident."], "answer": 1, "subject": "causal_reasoning"}
+{"question": "I needed to get cash. What happened as a result?", "choices": ["I went to the bank.", "I bought a wallet."], "answer": 0, "subject": "causal_reasoning"}
+{"question": "The rider fell to the ground. What was the cause of this?", "choices": ["The bull bucked the rider.", "The bull chased the rider."], "answer": 0, "subject": "causal_reasoning"}
+{"question": "The boy wanted to be muscular. What happened as a result?", "choices": ["He lifted weights.", "He played computer games."], "answer": 0, "subject": "causal_reasoning"}
+{"question": "The scientist conducted an experiment. What happened as a result?", "choices": ["She validated her theory.", "She fabricated her data."], "answer": 0, "subject": "causal_reasoning"}
+{"question": "The milk stayed cold. What was the cause of this?", "choices": ["It was pasteurized.", "I stored it in the refrigerator."], "answer": 1, "subject": "causal_reasoning"}
+{"question": "The fussy baby calmed down. What was the cause of this?", "choices": ["The parents shook a rattle in front of the baby.", "The parents picked out a name for the baby."], "answer": 0, "subject": "causal_reasoning"}
+{"question": "I put ice cubes in the hot soup. What happened as a result?", "choices": ["The soup cooled down.", "The soup became thick."], "answer": 0, "subject": "causal_reasoning"}
+{"question": "The girl shared her lunch with her friend. What was the cause of this?", "choices": ["Her friend forgot to bring his lunch.", "Her friend sat next to her at lunch."], "answer": 0, "subject": "causal_reasoning"}
+{"question": "The police closed the investigation. What was the cause of this?", "choices": ["They apprehended the suspect.", "The victim recovered."], "answer": 0, "subject": "causal_reasoning"}
+{"question": "The rain subsided. What happened as a result?", "choices": ["I went for a walk.", "I browsed the internet."], "answer": 0, "subject": "causal_reasoning"}
+{"question": "The cup of tea was scalding hot. What happened as a result?", "choices": ["I blew on it.", "I poured it out."], "answer": 0, "subject": "causal_reasoning"}
+{"question": "The photograph faded. What was the cause of this?", "choices": ["It was fake.", "It was old."], "answer": 1, "subject": "causal_reasoning"}
+{"question": "The boy got a black eye. What was the cause of this?", "choices": ["The bully mocked the boy.", "The bully punched the boy."], "answer": 1, "subject": "causal_reasoning"}
+{"question": "I misplaced my wallet. What happened as a result?", "choices": ["I retrieved my phone.", "I retraced my steps."], "answer": 1, "subject": "causal_reasoning"}
+{"question": "The hunter ran out of ammunition. What happened as a result?", "choices": ["He reloaded the gun.", "He aimed at the deer."], "answer": 0, "subject": "causal_reasoning"}
+{"question": "Marine life diminished. What was the cause of this?", "choices": ["Boats sailed through the ocean.", "Oil spilled into the ocean."], "answer": 1, "subject": "causal_reasoning"}
+{"question": "I ran the ice cube under warm water. What happened as a result?", "choices": ["The ice cube stuck to my fingers.", "The ice cube vanished."], "answer": 1, "subject": "causal_reasoning"}
+{"question": "The customer came into the boutique. What was the cause of this?", "choices": ["She left her wallet at home.", "The window display caught her eye."], "answer": 1, "subject": "causal_reasoning"}
+{"question": "The man drank water with his meal. What was the cause of this?", "choices": ["His meal was cold.", "His meal was spicy."], "answer": 1, "subject": "causal_reasoning"}
+{"question": "The woman stayed away from public places. What was the cause of this?", "choices": ["She was contagious.", "She was intoxicated."], "answer": 0, "subject": "causal_reasoning"}
+{"question": "The putrid odor filled the room. What happened as a result?", "choices": ["I clamped my hand over my nose.", "I put the rubber gloves on."], "answer": 0, "subject": "causal_reasoning"}
+{"question": "The employee missed work. What was the cause of this?", "choices": ["Her family got in touch with her.", "There was a death in her family."], "answer": 1, "subject": "causal_reasoning"}
+{"question": "The magnet attracted the paperclip. What happened as a result?", "choices": ["The paperclip dropped from the magnet.", "The paperclip stuck to the magnet."], "answer": 1, "subject": "causal_reasoning"}
+{"question": "The gardener pulled the weeds. What happened as a result?", "choices": ["The weeds came out of the soil.", "The weeds produced seeds."], "answer": 0, "subject": "causal_reasoning"}
+{"question": "We ordered a pizza. What happened as a result?", "choices": ["The pizza was delivered.", "The pizza got cold."], "answer": 0, "subject": "causal_reasoning"}
+{"question": "The teenager grew taller than his father. What was the cause of this?", "choices": ["He went through a growth spurt.", "He joined the basketball team."], "answer": 0, "subject": "causal_reasoning"}
+{"question": "The patient underwent the risky medical procedure. What was the cause of this?", "choices": ["The procedure was costly.", "Specialists recommended the procedure."], "answer": 1, "subject": "causal_reasoning"}
+{"question": "The man caught his shirtsleeve on the rungs of the fence. What happened as a result?", "choices": ["He hopped the fence.", "The sleeve ripped."], "answer": 1, "subject": "causal_reasoning"}
+{"question": "The investigators deemed the man's death a suicide. What was the cause of this?", "choices": ["He left a note.", "He had children."], "answer": 0, "subject": "causal_reasoning"}
+{"question": "The computer crashed. What was the cause of this?", "choices": ["I backed up my files.", "I downloaded a virus."], "answer": 1, "subject": "causal_reasoning"}
+{"question": "The girl's mouth ached. What was the cause of this?", "choices": ["She lost a tooth.", "She swallowed her gum."], "answer": 0, "subject": "causal_reasoning"}
+{"question": "The room was dim. What happened as a result?", "choices": ["I opened the blinds.", "I washed the windows."], "answer": 0, "subject": "causal_reasoning"}
+{"question": "The father put his daughter in her stroller. What was the cause of this?", "choices": ["She learned to walk.", "He was tired of carrying her."], "answer": 1, "subject": "causal_reasoning"}
+{"question": "The spy discovered the enemy's location. What was the cause of this?", "choices": ["The spy bugged the enemy's phone.", "The spy was hired by the government."], "answer": 0, "subject": "causal_reasoning"}
+{"question": "The glasses on the table spilled. What was the cause of this?", "choices": ["The child drew on the table.", "The child yanked the tablecloth."], "answer": 1, "subject": "causal_reasoning"}
+{"question": "The water in the teapot started to boil. What happened as a result?", "choices": ["The teapot cooled.", "The teapot whistled."], "answer": 1, "subject": "causal_reasoning"}
+{"question": "The city re-elected the mayor. What was the cause of this?", "choices": ["The city cut its budget.", "The mayor fulfilled his promises."], "answer": 1, "subject": "causal_reasoning"}
+{"question": "The woman exaggerated the details of the story. What was the cause of this?", "choices": ["She wanted attention.", "She felt shy."], "answer": 0, "subject": "causal_reasoning"}
+{"question": "The woman hit a midlife crisis. What happened as a result?", "choices": ["She retired.", "She went sky diving."], "answer": 1, "subject": "causal_reasoning"}
+{"question": "The man went into denial about the tragedy. What happened as a result?", "choices": ["He got over it easily.", "He refused to talk about it."], "answer": 1, "subject": "causal_reasoning"}
+{"question": "The man grieved. What was the cause of this?", "choices": ["His wife criticized him.", "His mother passed away."], "answer": 1, "subject": "causal_reasoning"}
+{"question": "The girl had a phobia of dogs. What was the cause of this?", "choices": ["She rescued an abandoned dog.", "She was bitten by a dog."], "answer": 1, "subject": "causal_reasoning"}
+{"question": "I made a resolution to eat a healthy diet. What happened as a result?", "choices": ["I attended a yoga class.", "I bought fruits and vegetables."], "answer": 1, "subject": "causal_reasoning"}
+{"question": "The patient went into a coma. What was the cause of this?", "choices": ["He suffered emotional trauma.", "He suffered brain damage."], "answer": 1, "subject": "causal_reasoning"}
+{"question": "The friends' dinnertime conversation turned to politics. What happened as a result?", "choices": ["The conversation quieted down.", "A debate erupted."], "answer": 1, "subject": "causal_reasoning"}
+{"question": "The woman spotted her friend from across the room. What was the cause of this?", "choices": ["The woman waved.", "The woman escaped."], "answer": 0, "subject": "causal_reasoning"}
+{"question": "The mother needed help looking after her children. What happened as a result?", "choices": ["She sent the children to daycare.", "She gave up custody of the children."], "answer": 0, "subject": "causal_reasoning"}
+{"question": "The driver honked her horn. What was the cause of this?", "choices": ["Another car swerved into her lane.", "She made a right turn at the light."], "answer": 0, "subject": "causal_reasoning"}
+{"question": "The man wanted to save money. What happened as a result?", "choices": ["He withdrew money from his savings account.", "He cut back on making frivolous purchases."], "answer": 1, "subject": "causal_reasoning"}
+{"question": "I put shoes on. What was the cause of this?", "choices": ["The floor contained broken glass.", "The paint on the walls was wet."], "answer": 0, "subject": "causal_reasoning"}
+{"question": "The librarian located the book in the stacks. What was the cause of this?", "choices": ["I requested the librarian's help.", "The book was checked out."], "answer": 0, "subject": "causal_reasoning"}
+{"question": "The mother became eye level with her son. What was the cause of this?", "choices": ["She squatted down.", "She held his hand."], "answer": 0, "subject": "causal_reasoning"}
+{"question": "I packed up my belongings. What was the cause of this?", "choices": ["I was hunting for a new apartment.", "I was moving out of my apartment."], "answer": 1, "subject": "causal_reasoning"}
+{"question": "The boy mimicked his older brother. What was the cause of this?", "choices": ["The boy looked up to his older brother.", "The boy wrestled with his older brother."], "answer": 0, "subject": "causal_reasoning"}
+{"question": "The girl desired her parent's approval. What happened as a result?", "choices": ["She ran away from home.", "She obeyed her parent's rules."], "answer": 1, "subject": "causal_reasoning"}
+{"question": "The truck crashed into the motorcycle on the bridge. What happened as a result?", "choices": ["The motorcyclist died.", "The bridge collapsed."], "answer": 0, "subject": "causal_reasoning"}
+{"question": "The retail shop shut down. What was the cause of this?", "choices": ["Its sales were lagging.", "It renewed its lease."], "answer": 0, "subject": "causal_reasoning"}
+{"question": "The swimmer won the race. What happened as a result?", "choices": ["She received a gold medal.", "Her team lost the meet."], "answer": 0, "subject": "causal_reasoning"}
+{"question": "Air pollution in the city worsened. What was the cause of this?", "choices": ["Factories increased their production.", "Factories shut down."], "answer": 0, "subject": "causal_reasoning"}
+{"question": "The mother scolded her daughter. What was the cause of this?", "choices": ["Her daughter burped at the kitchen table.", "Her daughter set the kitchen table."], "answer": 0, "subject": "causal_reasoning"}
+{"question": "I excused myself from the group. What was the cause of this?", "choices": ["I turned off my phone.", "My phone rang."], "answer": 1, "subject": "causal_reasoning"}
+{"question": "The skier slipped on the slope. What was the cause of this?", "choices": ["She dropped her ski poles.", "She hit a patch of ice."], "answer": 1, "subject": "causal_reasoning"}
+{"question": "The print on the brochure was tiny. What happened as a result?", "choices": ["The man put his glasses on.", "The man retrieved a pen from his pocket."], "answer": 0, "subject": "causal_reasoning"}
+{"question": "I flipped the light switch up and down. What happened as a result?", "choices": ["The light faded.", "The light flickered."], "answer": 1, "subject": "causal_reasoning"}
+{"question": "The man's watch was broken. What happened as a result?", "choices": ["He waited at the bus stop.", "He asked a stranger for the time."], "answer": 1, "subject": "causal_reasoning"}
+{"question": "The soldiers were concealed in the brush. What was the cause of this?", "choices": ["They were armed with rifles.", "They wore camouflage uniforms."], "answer": 1, "subject": "causal_reasoning"}
