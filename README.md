@@ -1,6 +1,6 @@
-# [Expert-Choice Routing Enables Adaptive Computation in Diffusion Language Models](https://arxiv.org/abs/2604.01622)
+# Expert-Choice Routing Enables Adaptive Computation in Diffusion Language Models
 
-Official code for the paper *"Expert-Choice Routing Enables Adaptive Computation in Diffusion Language Models"*.
+Official code for the paper *"Expert-Choice Routing Enables Adaptive Computation in Diffusion Language Models"*. [[arXiv]](https://arxiv.org/abs/2604.01622)
 
 We show that **expert-choice (EC) routing is a better fit for DLM MoE models** than token-choice (TC) routing: EC provides deterministic load balancing by design, yielding **2x faster wall-clock convergence** and higher throughput. We further introduce **timestep-dependent expert capacity scheduling**, where allocating more capacity to low-mask-ratio denoising steps consistently achieves the best performance under matched FLOPs. Finally, we demonstrate that **existing pretrained TC DLMs can be retrofitted to EC** by simply replacing the router.
 
@@ -15,6 +15,10 @@ We show that **expert-choice (EC) routing is a better fit for DLM MoE models** t
 <br>
 <i>Linear-reverse scheduling: as mask ratio decreases during denoising, per-expert capacity increases.</i>
 </p>
+
+## About
+
+- **Paper:** [Expert-Choice Routing Enables Adaptive Computation in Diffusion Language Models](https://arxiv.org/abs/2604.01622)
 
 ## Acknowledgment
 
