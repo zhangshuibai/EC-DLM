@@ -114,14 +114,16 @@ All configs train MoE DLMs (512 experts, 16 layers, hidden_size=512) on 8 H200 G
 
 These configs use dynamic EC with k_min=8, k_max=32, matching the static baseline (k=20) in expected FLOPs. The **linear-reverse** scheduler allocates more capacity to low-mask-ratio steps and achieves the best perplexity.
 
-| Scheduler | s(r) | Command |
-|-----------|------|---------|
-| Linear-Reverse | 1 - r | `bash examples/dlm_training/openwebtxt-H200/EC/dlm_pretrain_moe_H200_topk32_dynamic_reverse_linear.sh` |
-| Cosine-Reverse | (1 + cos(pi * r)) / 2 | `bash examples/dlm_training/openwebtxt-H200/EC/dlm_pretrain_moe_H200_topk32_dynamic_cosine_reverse.sh` |
-| Linear | r | `bash examples/dlm_training/openwebtxt-H200/EC/dlm_pretrain_moe_H200_topk32_dynamic_linear.sh` |
-| Cosine | (1 - cos(pi * r)) / 2 | `bash examples/dlm_training/openwebtxt-H200/EC/dlm_pretrain_moe_H200_topk32_dynamic_cosine.sh` |
-| Gaussian (sigma=0.22) | g(r) | `bash examples/dlm_training/openwebtxt-H200/EC/dlm_pretrain_moe_H200_topk32_dynamic_bell_gaussian_0.22.sh` |
-| Gaussian-Reverse | 1 - g(r) | `bash examples/dlm_training/openwebtxt-H200/EC/dlm_pretrain_moe_H200_topk32_dynamic_bell_gaussian_reverse_0.22.sh` |
+
+
+| Scheduler | $s(r)$ | Command |
+|-----------|--------|---------|
+| Linear-Reverse | $1 - r$ | `bash examples/dlm_training/openwebtxt-H200/EC/dlm_pretrain_moe_H200_topk32_dynamic_reverse_linear.sh` |
+| Cosine-Reverse | $\displaystyle\frac{1 + \cos(\pi r)}{2}$ | `bash examples/dlm_training/openwebtxt-H200/EC/dlm_pretrain_moe_H200_topk32_dynamic_cosine_reverse.sh` |
+| Linear | $r$ | `bash examples/dlm_training/openwebtxt-H200/EC/dlm_pretrain_moe_H200_topk32_dynamic_linear.sh` |
+| Cosine | $\displaystyle\frac{1 - \cos(\pi r)}{2}$ | `bash examples/dlm_training/openwebtxt-H200/EC/dlm_pretrain_moe_H200_topk32_dynamic_cosine.sh` |
+| Gaussian ($\sigma{=}0.22$) | $g(r)$ | `bash examples/dlm_training/openwebtxt-H200/EC/dlm_pretrain_moe_H200_topk32_dynamic_bell_gaussian_0.22.sh` |
+| Gaussian-Reverse | $1 - g(r)$ | `bash examples/dlm_training/openwebtxt-H200/EC/dlm_pretrain_moe_H200_topk32_dynamic_bell_gaussian_reverse_0.22.sh` |
 
 ### Multi-node Training
 
